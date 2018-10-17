@@ -1,3 +1,4 @@
+
 # Y2l-bootstrap-lab
 
 ### Before you start: Fork and clone this repository
@@ -11,12 +12,11 @@
 ## Part 1: Bootstrap Grid
 __Edit exercise.html for this portion of the lab__
 Create 2 rows, each divided into 2 columns; the first column should contain an image of an animal of your choice while the second one has its name and some interesting information about it. The table layout should look similiar to this:
-
 | Name       | Image  |
 | ------------- | -----|
-| Cat     | ![](https://i.ytimg.com/vi/YCaGYUIfdy4/maxresdefault.jpg  ) |
-| Red Panda     | ![](https://i.redd.it/0vbx9fw2hpd01.jpg  ) |
-| Dolphine     | ![](https://i0.wp.com/funkidsjokes.com/wp-content/uploads/2016/08/dolphin-203875_960_720.jpg?resize=300%2C200&ssl=1  ) |
+| Cat     | ![](https://i.ytimg.com/vi/YCaGYUIfdy4/maxresdefault.jpg =350x) |
+| Red Panda     | ![](https://i.redd.it/0vbx9fw2hpd01.jpg  =350x) |
+| Dolphine     | ![](https://i0.wp.com/funkidsjokes.com/wp-content/uploads/2016/08/dolphin-203875_960_720.jpg?resize=300%2C200&ssl=1  =350x) |
 
 **Bonus**
 If you shrink the size of the screen to a smartphone size you can notice that the image could get outside of the column borders that include it (You can do that by **Inspecting the page** and then right above the website you can adjust the screen-size). Google how to fix that. (hint: you need to make the image's width compatible with it's parent) 
