@@ -11,8 +11,9 @@
 ## Part 1: Bootstrap Grid
 __Edit exercise.html for this portion of the lab__
 Create 2 rows, each divided into 2 columns; the first column should contain an image of an animal of your choice while the second one has its name and some interesting information about it. The table layout should look similiar to this:
+
 | Name       | Image  |
-| ------------- | -----:|
+| ------------- | -----|
 | Cat     | ![](https://i.ytimg.com/vi/YCaGYUIfdy4/maxresdefault.jpg  ) |
 | Red Panda     | ![](https://i.redd.it/0vbx9fw2hpd01.jpg  ) |
 | Dolphine     | ![](https://i0.wp.com/funkidsjokes.com/wp-content/uploads/2016/08/dolphin-203875_960_720.jpg?resize=300%2C200&ssl=1  ) |
