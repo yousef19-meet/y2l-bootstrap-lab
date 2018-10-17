@@ -11,7 +11,7 @@
 
 ## Part 1: Bootstrap Grid
 __Edit exercise.html for this portion of the lab__
-1. Create a table layout **using bootrstrap grid** that includes 3 types of animals of your choice. The table layout should look similar to this **for all types of screen**: 
+1. Create a table layout **using bootrstrap grid** that includes 3 types of animals of your choice. The table layout should look similar to this **for all types of screens**: 
 
 | Name       | Image  |
 | ------------- | -----|
