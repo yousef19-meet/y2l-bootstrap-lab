@@ -28,10 +28,13 @@ __Edit exercise.html for this portion of the lab__
 1. Make a carousel that displays the images of the animals you listed previously.
 
 ## Part 3: Bootstrap Calculator
+### Part 3.1
 __Edit calculator.html for this portion of the lab__
 1. Open the calculator.html file in your browser (Chrome/ Firefox). What do you see?
 2. You are right! it's the ugliest thing you've seen all day. You're job is to make it look more like a calculator
 3. Using your knowledge about the Grid layout(rows, columns) and Bootstrap components (Buttons, inputs), make an interface for a calculator (out of inspiration? [click here](http://cdn.designrshub.com/wp-content/uploads/2013/04/calculator-interface-designs-11.jpg) or [here](https://banner2.kisspng.com/20180325/ysq/kisspng-user-interface-design-calculator-dribbble-designer-calculator-5ab71f53c544c2.723624731521950547808.jpg))
-**Bonus**
+4. The must haves for the calculator are, having buttons from 0-9, buttons for addition, subtraction, division, and multiplication, and textbox for showing the result
+
+### Part 3.2
 Using Javascript, make the calculator work!
 
